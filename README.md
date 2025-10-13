@@ -1,1 +1,1 @@
-The website template was borrowed from [Jon Barron](https://github.com/jonbarron/jonbarron_website).
+This repository contains the source code for my personal homepage, live at [thessshy.github.io](https://thessshy.github.io). The website template was borrowed from [Jon Barron](https://github.com/jonbarron/jonbarron_website).
